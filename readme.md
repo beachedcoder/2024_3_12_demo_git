@@ -7,4 +7,4 @@
 ## Notes
  - Order electrical cable
  - Order shielded conduit for data cables
-
+ - Schedule pickup of concrete blocks for reatining wall

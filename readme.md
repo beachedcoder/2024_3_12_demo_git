@@ -7,4 +7,5 @@
 ## Notes
  - Order electrical cable
  - Order shielded conduit for data cables
+ - Check status of 4" pipe order
 
